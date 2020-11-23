@@ -1,0 +1,12 @@
+# Site settings
+title: Farrow Family
+email: farrow.eric@gmail.com
+description: "Farrow Family" 
+baseurl: ""
+url: "https://www.farrowfamilyza.info"
+
+twitter_username: DevmonkZA
+github_username: devmonkZA
+
+# Build settings
+markdown: kramdown
